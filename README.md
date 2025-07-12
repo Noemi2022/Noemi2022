@@ -19,7 +19,7 @@
 
 
 
-<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemi2022&show_icons=true&locale=es&layout=compact" alt="noemi2022" /></p>
+<p><img align="izquierda" width="40" height="40" src="https://github-readme-stats.vercel.app/api/top-langs?username=noemi2022&show_icons=true&locale=es&layout=compact" alt="noemi2022" /></p>
 
 <p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=noemi2022&show_icons=true&locale=es" alt="noemi2022" /></p>
 
